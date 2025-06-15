@@ -11,7 +11,7 @@ This project is a part of my internship work focused on analyzing sales data usi
 
 ## 📁 Files Included
 
-- `sales_data.db` – SQLite3 database file
+- `sales_data.db` – SQLite3 database file (create your own or contact the editor)
 - `sales_data.csv` – Original sales dataset
 - `datalock.ipynb` – Python script to connect, query, and visualize data
 - `.png` files – Generated charts (revenue, quantity, trends, profit)
